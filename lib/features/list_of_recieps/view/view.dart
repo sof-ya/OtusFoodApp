@@ -1,0 +1,1 @@
+export 'recieps_list_screen.dart';
